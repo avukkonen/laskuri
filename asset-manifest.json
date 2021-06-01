@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/laskuri/static/css/main.831d0a93.chunk.css",
-    "main.js": "/laskuri/static/js/main.136f9b1d.chunk.js",
-    "main.js.map": "/laskuri/static/js/main.136f9b1d.chunk.js.map",
-    "runtime-main.js": "/laskuri/static/js/runtime-main.3db829e0.js",
-    "runtime-main.js.map": "/laskuri/static/js/runtime-main.3db829e0.js.map",
-    "static/js/2.fddd3502.chunk.js": "/laskuri/static/js/2.fddd3502.chunk.js",
-    "static/js/2.fddd3502.chunk.js.map": "/laskuri/static/js/2.fddd3502.chunk.js.map",
+    "main.css": "/laskuri/static/css/main.9ac81b1d.chunk.css",
+    "main.js": "/laskuri/static/js/main.36698df4.chunk.js",
+    "main.js.map": "/laskuri/static/js/main.36698df4.chunk.js.map",
+    "runtime-main.js": "/laskuri/static/js/runtime-main.ae966ab0.js",
+    "runtime-main.js.map": "/laskuri/static/js/runtime-main.ae966ab0.js.map",
+    "static/js/2.95db7438.chunk.js": "/laskuri/static/js/2.95db7438.chunk.js",
+    "static/js/2.95db7438.chunk.js.map": "/laskuri/static/js/2.95db7438.chunk.js.map",
     "index.html": "/laskuri/index.html",
-    "static/css/main.831d0a93.chunk.css.map": "/laskuri/static/css/main.831d0a93.chunk.css.map",
-    "static/js/2.fddd3502.chunk.js.LICENSE.txt": "/laskuri/static/js/2.fddd3502.chunk.js.LICENSE.txt"
+    "static/css/main.9ac81b1d.chunk.css.map": "/laskuri/static/css/main.9ac81b1d.chunk.css.map",
+    "static/js/2.95db7438.chunk.js.LICENSE.txt": "/laskuri/static/js/2.95db7438.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3db829e0.js",
-    "static/js/2.fddd3502.chunk.js",
-    "static/css/main.831d0a93.chunk.css",
-    "static/js/main.136f9b1d.chunk.js"
+    "static/js/runtime-main.ae966ab0.js",
+    "static/js/2.95db7438.chunk.js",
+    "static/css/main.9ac81b1d.chunk.css",
+    "static/js/main.36698df4.chunk.js"
   ]
 }
